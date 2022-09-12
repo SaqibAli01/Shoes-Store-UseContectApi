@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.center {
+  text-align: center;
+  font-weight: 600;
+  font-size: 180%;
+  line-height: 160%;
+
+}
+
+.font a {
+  font-size: 120%;
+  font-weight: 400;
+  text-decoration: none;
+  color: #1976d2;
+}
+
+span {
+  color: #1976d2;
+}
+
+@media (min-width: 900px)
+{
+.css-1p5s36p-MuiGrid2-root {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+}
+.navbars{
+margin-bottom: 1rem;
+}
+
+
